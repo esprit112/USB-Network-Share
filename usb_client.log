@@ -1,0 +1,6 @@
+2025-10-22 10:24:12,397 - __main__ - INFO - ✓ Client V3 initialized successfully
+2025-10-22 10:24:12,399 - __main__ - INFO - ✓ Server discovery enabled
+2025-10-22 10:24:12,404 - __main__ - INFO - ℹ Enter server details and click Connect
+2025-10-22 10:24:12,416 - __main__ - INFO - ✓ Server discovery started
+2025-10-22 10:25:04,342 - __main__ - INFO - ℹ Disconnected from server
+2025-10-22 10:25:04,344 - __main__ - INFO - Configuration saved to C:\Users\Martin\AppData\Roaming\USBNetworkShare\client_config.json
